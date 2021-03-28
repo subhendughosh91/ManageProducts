@@ -9,6 +9,6 @@ The functionalities in the app are as follows:-
 5.	Usage of Fragements and Nested XML Views
 
 ![Product List](https://raw.githubusercontent.com/subhendughosh91/ManageProducts/main/Screenshots/productSet.jpg)
-![Product Detailed View](https://raw.githubusercontent.com/subhendughosh91/ManageProducts/main/Screenshots/product.png)
-![Create New Product](https://raw.githubusercontent.com/subhendughosh91/ManageProducts/main/Screenshots/createProduct.png)
+![Product Detailed View](https://raw.githubusercontent.com/subhendughosh91/ManageProducts/main/Screenshots/product.jpg)
+![Create New Product](https://raw.githubusercontent.com/subhendughosh91/ManageProducts/main/Screenshots/createProduct.jpg)
 ![Resonsive Popover Inline](https://raw.githubusercontent.com/subhendughosh91/ManageProducts/main/Screenshots/ResponsivePopover.jpg)
