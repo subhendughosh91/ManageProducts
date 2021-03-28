@@ -8,7 +8,7 @@ The functionalities in the app are as follows:-
 4.	Usage of several libraries to demonstrate the Responsiveness of UI5. 
 5.	Usage of Fragements and Nested XML Views
 
-![Produc List](Screenshots/productSet.png)
+![Produc List](ManageProducts/Screenshots/productSet.png)
 ![Produc Detailed View](Screenshots/product.png)
 ![Create New Product](Screenshots/createProduct.png)
 ![Resonsive Popover Inline](Screenshots/ResponsivePopover.png)
