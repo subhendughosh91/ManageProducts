@@ -8,6 +8,8 @@ The functionalities in the app are as follows:-
 4.	Usage of several libraries to demonstrate the Responsiveness of UI5. 
 5.	Usage of Fragements and Nested XML Views
 
+[Manage Products Application](https://manageproducts-t12e750ea26ff.dispatcher.eu2.hana.ondemand.com/)
+
 ![Product List](https://raw.githubusercontent.com/subhendughosh91/ManageProducts/main/Screenshots/productSet.jpg)
 ![Product Detailed View](https://raw.githubusercontent.com/subhendughosh91/ManageProducts/main/Screenshots/product.jpg)
 ![Create New Product](https://raw.githubusercontent.com/subhendughosh91/ManageProducts/main/Screenshots/createProduct.jpg)
